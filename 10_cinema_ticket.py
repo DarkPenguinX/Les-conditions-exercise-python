@@ -18,7 +18,4 @@ if réduc=="oui":
     billet2 = billet1//2
 elif réduc == "non":
     billet2 = 14.10
-print(f"Le prix de ton billet est {billet2}")
-
-    
-
+print(f"Le prix de ton billet est {billet2a
